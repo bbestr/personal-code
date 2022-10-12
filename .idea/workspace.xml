@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="biyesheji:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1985a757-5017-472a-a3b4-e14f059663e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="jsf" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\Maven_repository" />
+        <option name="mavenHome" value="F:/apache-maven-3.8.5" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.8.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="excludeTargetFolder" value="false" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gfd9EbcRaF9APPqSI94Es4lPH2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\大三学习\大四毕业设计\校园订餐系统 毕业设计\校园订餐系统\校园订餐代码\源码\biyesheji\out\artifacts\biyesheji_war_exploded\assets\images\sliders" />
+      <recent name="E:\大三学习\大四毕业设计\06-校园订餐管理系统-niko\校园在线点餐系统\校园在线点餐系统源码java\源码\biyesheji\src\main\webapp\images" />
+      <recent name="E:\大三学习\大四毕业设计\06-校园订餐管理系统-niko\校园在线点餐系统\校园在线点餐系统源码java\源码\biyesheji\src\main\webapp\assets\images" />
+      <recent name="E:\大三学习\大四毕业设计\06-校园订餐管理系统-niko\校园在线点餐系统\校园在线点餐系统源码java\源码\biyesheji\src\main\java\com\byh\biyesheji\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\大三学习\大四毕业设计\06-校园订餐管理系统-niko\校园在线点餐系统\校园在线点餐系统源码java\源码\biyesheji\src\main\java\com\byh\biyesheji\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat 服务器.Tomcat 9.0.40">
+    <configuration name="aaa (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.byh.biyesheji.util.aaa" />
+      <module name="biyesheji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byh.biyesheji.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="aaa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.byh.biyesheji.aaa" />
+      <module name="biyesheji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byh.biyesheji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pwdTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.byh.biyesheji.util.pwdTest" />
+      <module name="biyesheji" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.byh.biyesheji.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.40" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.40" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="E:\IntelliJ IDEA 2021.3.2\jbr" nameIsGenerated="true">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="biyesheji:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_biyesheji" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="49567" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="biyesheji:war exploded" />
+          <artifact name="biyesheji:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat 服务器.Tomcat 9.0.40" />
+      <item itemvalue="应用程序.aaa" />
+      <item itemvalue="应用程序.aaa (1)" />
+      <item itemvalue="应用程序.pwdTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.aaa (1)" />
+        <item itemvalue="应用程序.pwdTest" />
+        <item itemvalue="应用程序.aaa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1985a757-5017-472a-a3b4-e14f059663e4" name="Default Changelist" comment="" />
+      <created>1598509427307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598509427307</updated>
+      <workItem from="1598509435026" duration="2250000" />
+      <workItem from="1648699962857" duration="1605000" />
+      <workItem from="1648701623706" duration="46000" />
+      <workItem from="1648701695025" duration="3121000" />
+      <workItem from="1648707044546" duration="359000" />
+      <workItem from="1648740472325" duration="1238000" />
+      <workItem from="1648785497661" duration="2004000" />
+      <workItem from="1648828760802" duration="109000" />
+      <workItem from="1648861431734" duration="4626000" />
+      <workItem from="1649307178458" duration="10643000" />
+      <workItem from="1649475205522" duration="3784000" />
+      <workItem from="1649485298601" duration="1083000" />
+      <workItem from="1649668726383" duration="1198000" />
+      <workItem from="1649688673512" duration="649000" />
+      <workItem from="1649752285608" duration="893000" />
+      <workItem from="1649927700486" duration="1703000" />
+      <workItem from="1650097953960" duration="84000" />
+      <workItem from="1650098387784" duration="2192000" />
+      <workItem from="1650193637947" duration="1527000" />
+      <workItem from="1650514768159" duration="1879000" />
+      <workItem from="1650608635922" duration="14271000" />
+      <workItem from="1650695243193" duration="12579000" />
+      <workItem from="1650777078588" duration="9784000" />
+      <workItem from="1650862669291" duration="20946000" />
+      <workItem from="1651233621671" duration="9808000" />
+      <workItem from="1651250168845" duration="2650000" />
+      <workItem from="1651321404722" duration="8398000" />
+      <workItem from="1651390300613" duration="4916000" />
+      <workItem from="1651478790868" duration="10780000" />
+      <workItem from="1651542759329" duration="9591000" />
+      <workItem from="1651625632997" duration="874000" />
+      <workItem from="1651630115601" duration="730000" />
+      <workItem from="1651667426545" duration="1375000" />
+      <workItem from="1651831244339" duration="1829000" />
+      <workItem from="1652593878208" duration="2335000" />
+      <workItem from="1652670686078" duration="24673000" />
+      <workItem from="1652786263929" duration="1128000" />
+      <workItem from="1652850569556" duration="599000" />
+      <workItem from="1652939709669" duration="14454000" />
+      <workItem from="1653011479684" duration="274000" />
+      <workItem from="1653012801096" duration="571000" />
+      <workItem from="1653204881245" duration="230000" />
+      <workItem from="1653205415828" duration="291000" />
+      <workItem from="1653206262244" duration="309000" />
+      <workItem from="1653206980102" duration="50000" />
+      <workItem from="1653209737520" duration="831000" />
+      <workItem from="1653210630576" duration="375000" />
+      <workItem from="1653211307660" duration="214000" />
+      <workItem from="1653279793329" duration="1350000" />
+      <workItem from="1653534990006" duration="3603000" />
+      <workItem from="1653714080187" duration="7462000" />
+      <workItem from="1653729658691" duration="1421000" />
+      <workItem from="1653731139499" duration="1896000" />
+      <workItem from="1653823750016" duration="13123000" />
+      <workItem from="1653881724765" duration="2795000" />
+      <workItem from="1653895638794" duration="7140000" />
+      <workItem from="1653915210657" duration="4965000" />
+      <workItem from="1653957977626" duration="2632000" />
+      <workItem from="1653961164156" duration="9403000" />
+      <workItem from="1654513876183" duration="3213000" />
+      <workItem from="1665292905196" duration="2969000" />
+      <workItem from="1665308058592" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/biyesheji$pwdTest.ic" NAME="pwdTest 覆盖结果" MODIFIED="1650875383063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.byh.biyesheji.util.*</FILTER>
+    </SUITE>
+  </component>
+</project>
